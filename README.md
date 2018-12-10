@@ -1,2 +1,6 @@
 # Teste de Comunicação Modbus TCP entre duas instãncias do NodeRed
-Exemplo de comunicação entre duas instância do Node Red
+
+
+## Objetivo
+
+O presente teste tem o objetivo de documentar os testes de comunicação do seguinte *node* [Modbus](https://flows.nodered.org/node/node-red-contrib-modbus).
