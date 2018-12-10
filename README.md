@@ -16,7 +16,7 @@ Basicamente os teste e configuração irá seguir a seguinte estrutura:
 Como a configuração é bem simples, nas imagens fica bem simples o entendimento:
 
 1. Nodes de configuração do servidor modbus tcp:
-	+ <img src="https://github.com/dedynobre/comunicacao-modbus-tcp-com-node-red/blob/master/images/nodered-com-03.jpg"/></br>
+	<img src="https://github.com/dedynobre/comunicacao-modbus-tcp-com-node-red/blob/master/images/nodered-com-03.jpg"/></br>
 
 2. Menu de configuração no node Modbus Server:</br>
-	+ <img src="https://github.com/dedynobre/comunicacao-modbus-tcp-com-node-red/blob/master/images/nodered-com-02.jpg"/></br>
+	<img src="https://github.com/dedynobre/comunicacao-modbus-tcp-com-node-red/blob/master/images/nodered-com-02.jpg"/></br>
