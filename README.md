@@ -27,9 +27,9 @@ Como a configuração é bem simples, nas imagens fica bem simples o entendiment
 	+ O primeiro node(inject) está executando uma rotina a cada 2 segundos.
 	+ O segundo node(randon) gera valores aleatórios no parâmetro de saída *msg.payload* conforme as configurações abaixo:
 		<img src="https://github.com/dedynobre/comunicacao-modbus-tcp-com-node-red/blob/master/images/nodered-com-05.jpg"/></br>
-	+ O terceiro é o node que escreve os valores nos registros no servidor modbus tcp:
-		+ Server: define o servidor modbus tcp que vamos usar para escrever/ler valores.
-		+ FC: é o modo de operação que o node irá funcionar, por exemplo, ler/escreve unico registro ou ler/escrever múltiplos registros.
-		+ Address: é o endereço modbus tcp.
+	+ O terceiro é o node que *lê/escreve* os valores nos registros no servidor modbus tcp:
+		+ **Server**: define o servidor modbus tcp que vamos usar para escrever/ler valores.
+		+ **FC**: é o modo de operação que o node irá funcionar, por exemplo, ler/escreve unico registro ou ler/escrever múltiplos registros.
+		+ **Address**: é o endereço modbus tcp.</br>
 		<img src="https://github.com/dedynobre/comunicacao-modbus-tcp-com-node-red/blob/master/images/nodered-com-05.jpg"/></br>
 	
