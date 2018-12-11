@@ -41,7 +41,7 @@ No lado cliente vamos precisar somente instânciar o servidor Modbus e configura
 
 1. Nodes de leitura do registro modbus tcp:</br>
 	<img src="https://github.com/dedynobre/comunicacao-modbus-tcp-com-node-red/blob/master/images/nodered-com-07.jpg"/></br>
-	
+	<img src="https://github.com/dedynobre/comunicacao-modbus-tcp-com-node-red/blob/master/images/nodered-com-08.jpg"/></br>
 	+ O primeiro *node* contém as informações de configuração da comunicação modbus:
 		+ **FC**: é o modo de operação que o node irá funcionar, por exemplo, ler/escrever, no nosso caso leitura.
 		+ **Address**: é o endereço modbus tcp.</br>
@@ -49,5 +49,5 @@ No lado cliente vamos precisar somente instânciar o servidor Modbus e configura
 		+ **Pool Rate**: tempo entre leituras.
 		+ **Server**: configuração o servidor modbus, que deve ser conforme configuração anterior:</br>
 			<img src="https://github.com/dedynobre/comunicacao-modbus-tcp-com-node-red/blob/master/images/nodered-com-09.jpg"/></br>
-	<img src="https://github.com/dedynobre/comunicacao-modbus-tcp-com-node-red/blob/master/images/nodered-com-08.jpg"/></br>
+	
 	
