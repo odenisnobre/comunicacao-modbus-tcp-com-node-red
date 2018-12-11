@@ -39,7 +39,7 @@ Como a configuração é bem simples, nas imagens fica bem simples o entendiment
 As configurações dos nodes no NodeRed Cliente é bem mais simples comparando com as configuraçoes do servidor.
 No lado cliente vamos precisar somente instânciar o servidor Modbus e configurar qual registro será lido.
 
-1. Nodes de leitura do registro modbus tcp:
+1. Nodes de leitura do registro modbus tcp:</br>
 	<img src="https://github.com/dedynobre/comunicacao-modbus-tcp-com-node-red/blob/master/images/nodered-com-07.jpg"/></br>
 	
 	+ O primeiro *node* contém as informações de configuração da comunicação modbus:
