@@ -51,4 +51,16 @@ No lado cliente vamos precisar somente instânciar o servidor Modbus e configura
 		+ **Server**: configuração o servidor modbus, que deve ser conforme configuração anterior:</br>
 			<img src="https://github.com/dedynobre/comunicacao-modbus-tcp-com-node-red/blob/master/images/nodered-com-09.jpg"/></br>
 	
+	+ O segundo node(debub) tem a função de mostrar o resultado de uma operação anterior. Neste caso ele está retornando *msg.payload*.
 	
+	
+### Conclusão
+
+Este teste é bem simples mas o principal objetivo foi demonstrar a capacidade que NodeRed tem de se comunicar via Modbus. No nosso caso foi usando o Modbus TCP mas tendo também a capacidade de
+se comunicar via Modbus Serial.
+Fica claro também que além de ser um cliente Modbus ele pode trabalhar também como um servidor Modbus o que pode tornar sua aplicabilidade muita mais interessante.
+
+
+### Help
+
+Caso precisem te ajuda ou tenham alguma sugestão, deixe seu comentário [Aqui](https://github.com/dedynobre/comunicacao-modbus-tcp-com-node-red/issues).
