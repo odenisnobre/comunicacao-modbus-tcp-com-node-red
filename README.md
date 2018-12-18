@@ -3,7 +3,7 @@
 
 ## Objetivo
 
-O presente teste tem o objetivo de documentar os testes de comunicação do seguinte *node* [Modbus](https://flows.nodered.org/node/node-red-contrib-modbus).
+O presente artigo tem o objetivo de documentar os testes de comunicação do seguinte *node* [Modbus](https://flows.nodered.org/node/node-red-contrib-modbus).
 
 ## Desenvolvimento
 
