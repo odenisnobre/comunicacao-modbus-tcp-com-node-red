@@ -1,9 +1,15 @@
-# Teste de Comunicação Modbus TCP entre duas instâncias do Node-Red
+<h1 align="center">
+<br>
+Teste de Comunicação Modbus TCP entre duas instâncias do Node-Red
+</h1>
 
+<p align="center">*O projeto tem como objetivo documentar os testes de comunicação do seguinte *node* [Modbus](https://flows.nodered.org/node/node-red-contrib-modbus).*.</p>
 
-## Objetivo
-
-> *O projeto tem como objetivo documentar os testes de comunicação do seguinte *node* [Modbus](https://flows.nodered.org/node/node-red-contrib-modbus).*
+<p align="center">
+  <a href="https://www.apache.org/licenses/LICENSE-2.0">
+    <img src="https://img.shields.io/badge/apache-2.0-blue" alt="License Apache">
+  </a>
+</p>
 
 ## Desenvolvimento
 
