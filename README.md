@@ -57,7 +57,7 @@ No lado cliente vamos precisar somente instânciar o servidor Modbus e configura
 		+ **Server**: configuração o servidor modbus, que deve ser conforme configuração anterior:</br>
 			<img src="https://github.com/dedynobre/comunicacao-modbus-tcp-com-node-red/blob/master/images/nodered-com-09.jpg"/></br>
 	
-	+ O segundo node(debub) tem a função de mostrar o resultado de uma operação anterior. Neste caso ele está retornando *msg.payload*.
+	+ O segundo node(debug) tem a função de mostrar o resultado de uma operação anterior. Neste caso ele está retornando *msg.payload*.
 	
 	
 ## Conclusão
